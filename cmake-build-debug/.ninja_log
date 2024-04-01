@@ -1,0 +1,13 @@
+# ninja log v5
+8	132	7337034569536120	CMakeFiles/SupermarketSystem.dir/main.cpp.obj	4eb349ddca6de136
+23	124	7337034569458889	CMakeFiles/SupermarketSystem.dir/billing.cpp.obj	93b3b0859ff16357
+16	704	7337034575259357	CMakeFiles/SupermarketSystem.dir/file_handler.cpp.obj	e00e857dad09e4c5
+740	916	7337034577289644	SupermarketSystem.exe	7282e1b9ba381e84
+31	739	7337034575610717	CMakeFiles/SupermarketSystem.dir/shopping.cpp.obj	33e3caa83ed86d5f
+1	272	7337050063367397	build.ninja	5eb7f49c247f58e0
+4	121	7337050065857538	CMakeFiles/SupermarketSystem.dir/main.cpp.obj	4eb349ddca6de136
+9	751	7337050072144596	CMakeFiles/SupermarketSystem.dir/shopping.cpp.obj	33e3caa83ed86d5f
+15	765	7337050072291647	CMakeFiles/SupermarketSystem.dir/file_handler.cpp.obj	e00e857dad09e4c5
+766	969	7337050074253934	SupermarketSystem.exe	8c64c9174111298b
+5	669	7337053040367778	CMakeFiles/SupermarketSystem.dir/shopping.cpp.obj	33e3caa83ed86d5f
+4	143	7337053074834211	SupermarketSystem.exe	8c64c9174111298b
